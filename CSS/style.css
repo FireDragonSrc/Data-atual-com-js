@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+body, html{
+    height: 100%;
+}
+body{
+    background-color: rgb(26, 25, 25);
+}
+.container{
+    width: 70%;
+    height: 20%;
+    background-color: rgb(197, 52, 52);
+    border-radius: 5px;
+    margin: 2% auto;
+    text-align: center;
+    padding: 2%;
+}
